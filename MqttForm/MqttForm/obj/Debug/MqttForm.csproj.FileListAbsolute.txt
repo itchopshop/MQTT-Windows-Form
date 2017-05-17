@@ -1,0 +1,11 @@
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\bin\Debug\MqttForm.exe.config
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\bin\Debug\MqttForm.exe
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\bin\Debug\MqttForm.pdb
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\obj\Debug\MqttForm.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\obj\Debug\MqttForm.Form1.resources
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\obj\Debug\MqttForm.Properties.Resources.resources
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\obj\Debug\MqttForm.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\obj\Debug\MqttForm.exe
+C:\Users\Paul\Desktop\MQTTVS\MqttForm\MqttForm\obj\Debug\MqttForm.pdb
