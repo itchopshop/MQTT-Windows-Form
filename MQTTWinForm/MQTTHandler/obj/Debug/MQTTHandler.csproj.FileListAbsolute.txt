@@ -1,0 +1,14 @@
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\bin\Debug\MQTTHandler.exe.config
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\bin\Debug\MQTTHandler.exe.manifest
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\bin\Debug\MQTTHandler.application
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\bin\Debug\MQTTHandler.exe
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\bin\Debug\MQTTHandler.pdb
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\bin\Debug\M2Mqtt.Net.dll
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\bin\Debug\M2Mqtt.Net.pdb
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\obj\Debug\MQTTHandler.Form1.resources
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\obj\Debug\MQTTHandler.Properties.Resources.resources
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\obj\Debug\MQTTHandler.csproj.GenerateResource.Cache
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\obj\Debug\MQTTHandler.exe.manifest
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\obj\Debug\MQTTHandler.application
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\obj\Debug\MQTTHandler.exe
+\\clasohlson.se\userdata\home\pac\visual studio 2017\Projects\MQTTHandler\MQTTHandler\obj\Debug\MQTTHandler.pdb
